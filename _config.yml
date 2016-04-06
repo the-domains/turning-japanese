@@ -1,7 +1,7 @@
 name: turning japanese
 favicon: null
-layout_spectrum: 0.9443403771147132
-typography_spectrum: 0.5166234399657696
+layout_spectrum: 0.68398
+typography_spectrum: 0.19202
 title: turning Japanese
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#ebdbf8'
+    - '#383c47'
+    - '#605c6b'
+    - '#ab9bb5'
+    - '#07080d'
   brandStrength: 0.8610976652707905
   lightness: 0.48636359022930264
   saturation: 0.28322871308773756
