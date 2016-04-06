@@ -1,0 +1,28 @@
+name: turning japanese
+favicon: null
+layout_spectrum: 0.9443403771147132
+typography_spectrum: 0.5166234399657696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8610976652707905
+  lightness: 0.48636359022930264
+  saturation: 0.28322871308773756
+  rhythmicContrast: 0.5612642166670412
+purpose: []
