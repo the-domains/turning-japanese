@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Food.\_"
-datePublished: '2016-04-07T08:36:32.712Z'
-dateModified: '2016-04-07T08:36:31.642Z'
+datePublished: '2016-04-07T15:21:35.628Z'
+dateModified: '2016-04-07T15:21:31.687Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv.md
@@ -22,7 +22,7 @@ url: sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv/index.html
 _type: Article
 
 ---
-**F**ood. 
+**F**ood. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dc354d2-a44b-4bcb-a790-8b4db95a7576.jpg)
 
 I will travel thousands of miles  to indulge myself it at any price, obsessed yes probably, it is the driving force in my life.
 Where do I go to eat the best? Japan, surely the worlds most important food culture. 
@@ -52,6 +52,8 @@ Product is all-important in Japan the source and the quality are of premium impo
 
 > A certain reverence is directed to the product be it a eel or a chicken I think Shinto has played a large part in this attitude everything has its own soul from a grain of rice to a tin can.
 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af55de02-acb1-45d3-9353-0961233b23a2.jpg)
+
 Respect for what you eat is slowly filtering back to Europe even in the mainstream.More people are eating better products and being educated into going out of their way to get a better tasting chicken that has had a better life and been treated with respect. 
 
 Japan has a greater respect for the seasons, the anticipation is palpable waiting for the start of the season of Matsutake or Bamboo is so important. 
@@ -60,8 +62,10 @@ An explosion of cherry blossom is a major celebration throughout Japan and as th
 
 This is a very important yearly passage that the whole of Japan is totally gripped by,TV crews give daily reports from Yoshino on the state of the blossom.
 Prefecture is so important the produce being promoted and transported throughout Japan to the countries markets and restaurants chefs who have started their own business seeking foods from their hometown and bringing it to a wider audience.
-Akita is famous for its rice Kagoshima for its pork Ishikawa for fish and all are held in high esteem for their quality and flavour.
-Sake Has made a return to popular culture but breweries are still closing now export of premium sake is starting to spiral as there is a global market for this wonderful product, it will save and promote the industry, this brings me back to the theory of the harder path makes things better.
+Akita is famous for its rice Kagoshima for its pork Ishikawa for fish and all are held in high esteem for their quality and flavour. 
+
+Sake Has made a return to popular culture but breweries are still closing now export of premium sake is starting to spiral as there is a global market for this wonderful product, it will save and promote the industry, this brings me back to the theory of the harder path makes things better. 
+
 Sake brewing is a difficult and physically intensive product but a wonderful flavour and depth just from rice and water koji and yeast hundreds of different flavours from the humble grain of rice.
 Markets play an important part of the social structure of the Japanese not just buying food but keeping the farmers and producers funded holding the community together by meeting each other on a weekly basis, not of course forgetting the human need for the latest gossip.
 In addition, cooked food stalls yatai featuring local dishes rarely seen out side of their locale keeping the locals and food history intact, long may they continue.
@@ -73,5 +77,3 @@ Finally the Michelin guide has published the guide to Tokyo featuring more starr
 I feel now slightly justified in my long held views , It is also why I travel to japan at every opportunity to Travel to Japan just to eat.
 Japanese chefs work hard and have a respect for food from their culture and others hence some of the best French and Italian restaurants in Japan are headed up By Japanese chefs.
 I am in debt to them all for their hard work and skills to allow me my guilty pleasure to enjoy the greatest culinary culture in the world.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90e0a471-f3d1-4d9b-9e64-8c0d618b3bc1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b9d9b9d-a244-4789-97b5-25139d34e3ed.jpg)
