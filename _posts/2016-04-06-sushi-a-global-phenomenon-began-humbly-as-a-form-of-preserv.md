@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Food.\_"
-datePublished: '2016-04-07T07:22:59.749Z'
-dateModified: '2016-04-07T07:22:59.349Z'
+datePublished: '2016-04-07T08:36:32.712Z'
+dateModified: '2016-04-07T08:36:31.642Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv.md
@@ -73,3 +73,5 @@ Finally the Michelin guide has published the guide to Tokyo featuring more starr
 I feel now slightly justified in my long held views , It is also why I travel to japan at every opportunity to Travel to Japan just to eat.
 Japanese chefs work hard and have a respect for food from their culture and others hence some of the best French and Italian restaurants in Japan are headed up By Japanese chefs.
 I am in debt to them all for their hard work and skills to allow me my guilty pleasure to enjoy the greatest culinary culture in the world.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90e0a471-f3d1-4d9b-9e64-8c0d618b3bc1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b9d9b9d-a244-4789-97b5-25139d34e3ed.jpg)
