@@ -1,6 +1,6 @@
 name: turning japanese
 favicon: null
-layout_spectrum: 0.68398
+layout_spectrum: 0.20983
 typography_spectrum: 0.19202
 title: turning Japanese
 cta:
@@ -23,7 +23,7 @@ color:
     - '#ab9bb5'
     - '#07080d'
   brandStrength: 0.8610976652707905
-  lightness: 0.6875
-  saturation: 0.28322871308773756
-  rhythmicContrast: 0.5612642166670412
+  lightness: 0.5625
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
