@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Food.\_"
-datePublished: '2016-04-07T15:21:35.628Z'
-dateModified: '2016-04-07T15:21:31.687Z'
+datePublished: '2016-04-09T20:00:46.850Z'
+dateModified: '2016-04-09T20:00:02.601Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv.md
@@ -22,7 +22,7 @@ url: sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv/index.html
 _type: Article
 
 ---
-**F**ood. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dc354d2-a44b-4bcb-a790-8b4db95a7576.jpg)
+**F**ood. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ba77b5bca272027f94a439d99aad9338bc1a00f.jpg)
 
 I will travel thousands of miles  to indulge myself it at any price, obsessed yes probably, it is the driving force in my life.
 Where do I go to eat the best? Japan, surely the worlds most important food culture. 
@@ -34,7 +34,7 @@ It has filtered through into other cultures food history.
 Cuisine nouvelle a stripping back of the old layers of food history and heavy sauces,the denial of cream and butter, an eye for detail and presentation and good health. this style owes much to Japan. 
 
 Sushi is continues its march taking over the world sometimes in a good way, sometimes badly executed but a part globalisation of cuisines.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19aacafa-f65e-4f17-bd10-f55ddade23f0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6029f96a562ae2626c25f7356b28116d17623c75.jpg)
 
 **J**apan is food focused it has remained a closed culture for centuries looking inward has helped the distillation of the finest products and styles of cuisine. 
 
@@ -52,7 +52,7 @@ Product is all-important in Japan the source and the quality are of premium impo
 
 > A certain reverence is directed to the product be it a eel or a chicken I think Shinto has played a large part in this attitude everything has its own soul from a grain of rice to a tin can.
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af55de02-acb1-45d3-9353-0961233b23a2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3acea0b01816c35459bbb6f0fe1a50bc79e3447.jpg)
 
 Respect for what you eat is slowly filtering back to Europe even in the mainstream.More people are eating better products and being educated into going out of their way to get a better tasting chicken that has had a better life and been treated with respect. 
 
@@ -62,7 +62,7 @@ An explosion of cherry blossom is a major celebration throughout Japan and as th
 
 This is a very important yearly passage that the whole of Japan is totally gripped by,TV crews give daily reports from Yoshino on the state of the blossom.
 Prefecture is so important the produce being promoted and transported throughout Japan to the countries markets and restaurants chefs who have started their own business seeking foods from their hometown and bringing it to a wider audience.
-Akita is famous for its rice Kagoshima for its pork Ishikawa for fish and all are held in high esteem for their quality and flavour. 
+Akita is famous for its rice Kagoshima for its pork Ishikawa for fish and all are held in high esteem for their quality and flavour. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c17a9e5-e5b7-41f0-bc25-a35586281198.jpg)
 
 Sake Has made a return to popular culture but breweries are still closing now export of premium sake is starting to spiral as there is a global market for this wonderful product, it will save and promote the industry, this brings me back to the theory of the harder path makes things better. 
 
@@ -72,8 +72,11 @@ In addition, cooked food stalls yatai featuring local dishes rarely seen out sid
 The big departo stores are full of historic foods, downstairs the food halls are filled with small independent specialists keeping food alive the products here are of great provenance and a high standard and many are produced in-store keeping it fresh and immediate.
 As a foreigner the standards reached in food production and presentation in Japan is totally unrivalled anywhere else in the world, there are more food programmes food literature and quality restaurants here than anywhere I can think of.
 The rest of the world is uneducated in the deep passion for food that the Japanese people have.
-So much so that when lists of the best restaurants are made as they are, invariably none contain any restaurant from Japan when my feeling is that the best are in fact all in Japan.
+So much so that when lists of the best restaurants are made as they are, invariably none contain any restaurant from Japan when my feeling is that the best are in fact all in Japan. 
+
 Finally the Michelin guide has published the guide to Tokyo featuring more starred restaurants than Paris and this is only the first issue.
-I feel now slightly justified in my long held views , It is also why I travel to japan at every opportunity to Travel to Japan just to eat.
-Japanese chefs work hard and have a respect for food from their culture and others hence some of the best French and Italian restaurants in Japan are headed up By Japanese chefs.
+I feel now slightly justified in my long held views , It is also why I travel to japan at every opportunity  just to eat.
+
+Japanese chefs work hard and have a respect for food from their culture and others hence some of the best French and Italian restaurants in Japan are headed up By Japanese chefs. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d81ed033-2194-4335-9310-dfc15ef2c0dc.jpg)
+
 I am in debt to them all for their hard work and skills to allow me my guilty pleasure to enjoy the greatest culinary culture in the world.
