@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Food.\_"
-datePublished: '2016-04-12T13:01:31.247Z'
-dateModified: '2016-04-09T20:00:53.392Z'
+datePublished: '2016-04-12T13:02:33.057Z'
+dateModified: '2016-04-12T13:01:36.043Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv.md
@@ -22,7 +22,7 @@ url: sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv/index.html
 _type: Article
 
 ---
-**F**ood. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ba77b5bca272027f94a439d99aad9338bc1a00f.jpg)
+**E**at. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ba77b5bca272027f94a439d99aad9338bc1a00f.jpg)
 
 I will travel thousands of miles  to indulge myself it at any price, obsessed yes probably, it is the driving force in my life.
 Where do I go to eat the best? Japan, surely the worlds most important food culture. 
