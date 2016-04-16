@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Eat.\_"
-datePublished: '2016-04-16T21:12:15.962Z'
-dateModified: '2016-04-16T21:11:48.984Z'
+description: "\_food of japan"
+datePublished: '2016-04-16T21:13:12.349Z'
+dateModified: '2016-04-16T21:12:25.643Z'
 title: Eat
 author: []
 sourcePath: _posts/2016-04-06-sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv.md
