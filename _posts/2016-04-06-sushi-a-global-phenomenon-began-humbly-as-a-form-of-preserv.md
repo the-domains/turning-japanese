@@ -5,11 +5,13 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "\_food of japan"
-datePublished: '2016-04-17T21:27:18.537Z'
-dateModified: '2016-04-17T21:27:18.051Z'
-title: Eat
-author: []
+description: ' food of japan'
+datePublished: '2016-04-18T11:38:02.244Z'
+dateModified: '2016-04-18T11:36:00.220Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-06-sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv.md
 published: true
 authors: []
@@ -25,8 +27,7 @@ _type: Article
 food of japan
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ba77b5bca272027f94a439d99aad9338bc1a00f.jpg)
 
-I will travel thousands of miles  to indulge myself it at any price, obsessed yes probably, it is the driving force in my life.
-Where do I go to eat the best? Japan, surely the worlds most important food culture. 
+I will travel thousands of miles to indulge myself it at any price, obsessed yes probably, it is the driving force in my life. Where do I go to eat the best? Japan, surely the worlds most important food culture. 
 
 It has filtered through into other cultures food history.
 
@@ -57,26 +58,16 @@ Product is all-important in Japan the source and the quality are of premium impo
 
 Respect for what you eat is slowly filtering back to Europe even in the mainstream.More people are eating better products and being educated into going out of their way to get a better tasting chicken that has had a better life and been treated with respect. 
 
-Japan has a greater respect for the seasons, the anticipation is palpable waiting for the start of the season of Matsutake or Bamboo is so important. 
-An explosion of cherry blossom is a major celebration throughout Japan and as the trees blossom from the warmer south to the north a wave of matsuri celebrating the new beginning; sweep the country along with local seasonal foods being enjoyed again in their moment.
+Japan has a greater respect for the seasons, the anticipation is palpable waiting for the start of the season of Matsutake or Bamboo is so important. An explosion of cherry blossom is a major celebration throughout Japan and as the trees blossom from the warmer south to the north a wave of matsuri celebrating the new beginning; sweep the country along with local seasonal foods being enjoyed again in their moment.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0ff47e0-a6d3-4608-a079-3f6f97b342eb.jpg)
 
-This is a very important yearly passage that the whole of Japan is totally gripped by,TV crews give daily reports from Yoshino on the state of the blossom.
-Prefecture is so important the produce being promoted and transported throughout Japan to the countries markets and restaurants chefs who have started their own business seeking foods from their hometown and bringing it to a wider audience.
-Akita is famous for its rice Kagoshima for its pork Ishikawa for fish and all are held in high esteem for their quality and flavour. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c17a9e5-e5b7-41f0-bc25-a35586281198.jpg)
+This is a very important yearly passage that the whole of Japan is totally gripped by,TV crews give daily reports from Yoshino on the state of the blossom. Prefecture is so important the produce being promoted and transported throughout Japan to the countries markets and restaurants chefs who have started their own business seeking foods from their hometown and bringing it to a wider audience. Akita is famous for its rice Kagoshima for its pork Ishikawa for fish and all are held in high esteem for their quality and flavour. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c17a9e5-e5b7-41f0-bc25-a35586281198.jpg)
 
 Sake Has made a return to popular culture but breweries are still closing now export of premium sake is starting to spiral as there is a global market for this wonderful product, it will save and promote the industry, this brings me back to the theory of the harder path makes things better. 
 
-Sake brewing is a difficult and physically intensive product but a wonderful flavour and depth just from rice and water koji and yeast hundreds of different flavours from the humble grain of rice.
-Markets play an important part of the social structure of the Japanese not just buying food but keeping the farmers and producers funded holding the community together by meeting each other on a weekly basis, not of course forgetting the human need for the latest gossip.
-In addition, cooked food stalls yatai featuring local dishes rarely seen out side of their locale keeping the locals and food history intact, long may they continue.
-The big departo stores are full of historic foods, downstairs the food halls are filled with small independent specialists keeping food alive the products here are of great provenance and a high standard and many are produced in-store keeping it fresh and immediate.
-As a foreigner the standards reached in food production and presentation in Japan is totally unrivalled anywhere else in the world, there are more food programmes food literature and quality restaurants here than anywhere I can think of.
-The rest of the world is uneducated in the deep passion for food that the Japanese people have.
-So much so that when lists of the best restaurants are made as they are, invariably none contain any restaurant from Japan when my feeling is that the best are in fact all in Japan. 
+Sake brewing is a difficult and physically intensive product but a wonderful flavour and depth just from rice and water koji and yeast hundreds of different flavours from the humble grain of rice. Markets play an important part of the social structure of the Japanese not just buying food but keeping the farmers and producers funded holding the community together by meeting each other on a weekly basis, not of course forgetting the human need for the latest gossip. In addition, cooked food stalls yatai featuring local dishes rarely seen out side of their locale keeping the locals and food history intact, long may they continue. The big departo stores are full of historic foods, downstairs the food halls are filled with small independent specialists keeping food alive the products here are of great provenance and a high standard and many are produced in-store keeping it fresh and immediate. As a foreigner the standards reached in food production and presentation in Japan is totally unrivalled anywhere else in the world, there are more food programmes food literature and quality restaurants here than anywhere I can think of. The rest of the world is uneducated in the deep passion for food that the Japanese people have. So much so that when lists of the best restaurants are made as they are, invariably none contain any restaurant from Japan when my feeling is that the best are in fact all in Japan. 
 
-Finally the Michelin guide has published the guide to Tokyo featuring more starred restaurants than Paris and this is only the first issue.
-I feel now slightly justified in my long held views , It is also why I travel to japan at every opportunity  just to eat.
+Finally the Michelin guide has published the guide to Tokyo featuring more starred restaurants than Paris and this is only the first issue. I feel now slightly justified in my long held views , It is also why I travel to japan at every opportunity just to eat.
 
 Japanese chefs work hard and have a respect for food from their culture and others hence some of the best French and Italian restaurants in Japan are headed up By Japanese chefs. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d81ed033-2194-4335-9310-dfc15ef2c0dc.jpg)
 
