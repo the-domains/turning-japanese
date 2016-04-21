@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Passing trough Japans prefectures by train is the only way to travel this country. '
-datePublished: '2016-04-20T19:25:37.864Z'
-dateModified: '2016-04-20T19:25:03.071Z'
+datePublished: '2016-04-21T06:53:21.000Z'
+dateModified: '2016-04-21T05:53:03.493Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-passing-trough-japans-prefectures-by-train-is-the-only-way-t.md
