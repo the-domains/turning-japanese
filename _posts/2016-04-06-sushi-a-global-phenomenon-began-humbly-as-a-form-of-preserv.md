@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Wa-Shoku
-datePublished: '2016-04-23T12:01:05.627Z'
-dateModified: '2016-04-23T12:01:05.006Z'
+datePublished: '2016-04-30T04:51:18.496Z'
+dateModified: '2016-04-30T04:50:35.673Z'
 title: ''
 author:
   - name: ''
@@ -46,7 +46,7 @@ Zen vegetarianism a food ethos raised to greatness over centuries not decades.
 
 All of the myriad cuisines in Japan seen to have come to popular culture by the harder path, soba for instance is one of the most difficult things to make but perseverance pays off it has become an important cuisine generating much respect for the chefs and the worldwide demand for soba has even brought it to our shores. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d75bf3a1-77c5-4ea2-b872-96c93b907038.jpg)
 
-Sushi a began humbly as a form of preservation rice was used as the preserving medium and the fish was buried within it and left for up to a year funazushi. 
+Sushi a began humbly as a form of preservation rice was used as the preserving medium and the fish was buried within it and left for up to a year funazushi. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76824b3b-78fe-4f6a-8a35-209ee0f1b5f5.jpg)
 
 Osaka style sushi remains the closest to the old style it was normal to fill the cavity with vinegered rice and press it, some times wrapped in bamboo leaf which has antibacterial properties. this is still prevalent using Saba mackerel which is salted vinegared rolled onto rice and topped with translucent seaweed traditionally wrapped in bamboo leaf as an antibacterial aid and to facilitate carriage .
 
@@ -70,7 +70,9 @@ Sake Has made a return to popular culture but breweries are still closing now ex
 
 Sake brewing is a difficult and physically intensive product but a wonderful flavour and depth just from rice and water koji and yeast hundreds of different flavours from the humble grain of rice. 
 
-Markets play an important part of the social structure of the Japanese not just buying food but keeping the farmers and producers funded holding the community together by meeting each other on a weekly basis, not of course forgetting the human need for the latest gossip. In addition, cooked food stalls yatai featuring local dishes rarely seen out side of their locale keeping the locals and food history intact, long may they continue. The big departo stores are full of historic foods, downstairs the food halls are filled with small independent specialists keeping food alive the products here are of great provenance and a high standard and many are produced in-store keeping it fresh and immediate. As a foreigner the standards reached in food production and presentation in Japan is totally unrivalled anywhere else in the world, there are more food programmes food literature and quality restaurants here than anywhere I can think of. The rest of the world is uneducated in the deep passion for food that the Japanese people have. So much so that when lists of the best restaurants are made as they are, invariably none contain any restaurant from Japan when my feeling is that the best are in fact all in Japan. 
+Markets play an important part of the social structure of the Japanese not just buying food but keeping the farmers and producers funded holding the community together by meeting each other on a weekly basis, not of course forgetting the human need for the latest gossip. In addition, cooked food stalls yatai featuring local dishes rarely seen out side of their locale keeping the locals and food history intact, long may they continue. The big departo stores are full of historic foods, downstairs the food halls are filled with small independent specialists keeping food alive the products here are of great provenance and a high standard and many are produced in-store keeping it fresh and immediate. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad413940-acb5-407a-a460-e64620de24c3.jpg)
+
+As a foreigner the standards reached in food production and presentation in Japan is totally unrivalled anywhere else in the world, there are more food programmes food literature and quality restaurants here than anywhere I can think of. The rest of the world is uneducated in the deep passion for food that the Japanese people have. So much so that when lists of the best restaurants are made as they are, invariably none contain any restaurant from Japan when my feeling is that the best are in fact all in Japan. 
 
 Finally the Michelin guide has published the guide to Tokyo featuring more starred restaurants than Paris and this is only the first issue. I feel now slightly justified in my long held views , It is also why I travel to japan at every opportunity just to eat.
 
