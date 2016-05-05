@@ -5,14 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Wa-Shoku
-datePublished: '2016-04-30T04:51:18.496Z'
-dateModified: '2016-04-30T04:50:35.673Z'
+datePublished: '2016-05-05T20:35:01.205Z'
+dateModified: '2016-05-05T20:33:59.626Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-06-sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv.md
-published: true
 authors: []
 publisher:
   name: null
@@ -72,7 +71,7 @@ Sake brewing is a difficult and physically intensive product but a wonderful fla
 
 Markets play an important part of the social structure of the Japanese not just buying food but keeping the farmers and producers funded holding the community together by meeting each other on a weekly basis, not of course forgetting the human need for the latest gossip. In addition, cooked food stalls yatai featuring local dishes rarely seen out side of their locale keeping the locals and food history intact, long may they continue. The big departo stores are full of historic foods, downstairs the food halls are filled with small independent specialists keeping food alive the products here are of great provenance and a high standard and many are produced in-store keeping it fresh and immediate. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad413940-acb5-407a-a460-e64620de24c3.jpg)
 
-As a foreigner the standards reached in food production and presentation in Japan is totally unrivalled anywhere else in the world, there are more food programmes food literature and quality restaurants here than anywhere I can think of. The rest of the world is uneducated in the deep passion for food that the Japanese people have. So much so that when lists of the best restaurants are made as they are, invariably none contain any restaurant from Japan when my feeling is that the best are in fact all in Japan. 
+As a foreigner the standards reached in food production and presentation in Japan is totally unrivalled anywhere else in the world, there are more food programmes food literature and quality restaurants here than anywhere I can think of. The rest of the world is uneducated in the deep passion for food that the Japanese people have. So much so that when lists of the best restaurants are made as they are, invariably none contain any restaurant from Japan when my feeling is that the best are in fact all in Japan. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/356f4e35-f561-4bcd-af08-5f4ce8762cd0.jpg)
 
 Finally the Michelin guide has published the guide to Tokyo featuring more starred restaurants than Paris and this is only the first issue. I feel now slightly justified in my long held views , It is also why I travel to japan at every opportunity just to eat.
 
