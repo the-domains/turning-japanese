@@ -4,13 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'A local train drifting past villages and paddies or Nozumi accelerating like a F1 car into the distant north both have their charms. If you have never experienced the Japanese way of travel. for the British rail user-commuter it is a revelation. Amidst the rushing of shinjuku there is a strange order one we are not used to. Trains work, they are on time, clean efficient and pleasant to use. The top tips are arrive in plenty of time, buy ekiben for your journey find where your carriage will stop, all marked on the platform. '
-datePublished: '2016-05-03T07:09:28.953Z'
-dateModified: '2016-05-03T07:07:45.310Z'
+description: 'A local train drifting past villages and paddies or Nozumi accelerating like a F1 car into the distant north both have their charms. '
+datePublished: '2016-05-06T07:54:39.294Z'
+dateModified: '2016-05-06T07:51:38.010Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-passing-trough-japans-prefectures-by-train-is-the-only-way-t.md
-published: true
 authors: []
 publisher:
   name: null
@@ -26,4 +25,6 @@ _type: Article
 
 > Passing trough Japans prefectures by train is the only way to travel this country. 
 
-A local train drifting past villages and paddies or Nozumi accelerating like a F1 car into the distant north both have their charms. If you have never experienced the Japanese way of travel. for the British rail user-commuter it is a revelation. Amidst the rushing of shinjuku there is a strange order one we are not used to. Trains work, they are on time, clean efficient and pleasant to use. The top tips are arrive in plenty of time, buy ekiben for your journey find where your carriage will stop, all marked on the platform.
+A local train drifting past villages and paddies or Nozumi accelerating like a F1 car into the distant north both have their charms. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ee84882-62c2-4ed0-8654-b7e7f3fe6cdc.jpg)
+
+If you have never experienced the Japanese way of travel. for the British rail user-commuter it is a revelation. Amidst the rushing of shinjuku there is a strange order one we are not used to. Trains work, they are on time, clean efficient and pleasant to use. The top tips are arrive in plenty of time, buy ekiben for your journey find where your carriage will stop, all marked on the platform. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddf3abfa-5408-498e-8d06-05f7e02c57a9.jpg)
