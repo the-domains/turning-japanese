@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'A local train drifting past villages and paddies or Nozumi accelerating like a F1 car into the distant north both have their charms. '
-datePublished: '2016-05-08T06:19:47.137Z'
-dateModified: '2016-05-08T06:03:07.994Z'
+datePublished: '2016-05-08T06:24:40.486Z'
+dateModified: '2016-05-08T06:24:20.982Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-passing-trough-japans-prefectures-by-train-is-the-only-way-t.md
