@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Wa-Shoku
-datePublished: '2016-05-06T18:02:53.741Z'
-dateModified: '2016-05-06T18:02:52.844Z'
+datePublished: '2016-05-08T17:51:48.140Z'
+dateModified: '2016-05-08T17:51:01.375Z'
 title: ''
 author:
   - name: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv/index.html
 _type: Article
 
