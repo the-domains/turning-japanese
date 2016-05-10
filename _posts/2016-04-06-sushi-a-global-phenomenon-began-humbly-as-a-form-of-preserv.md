@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Wa-Shoku
-datePublished: '2016-05-10T18:04:09.929Z'
-dateModified: '2016-05-10T17:45:56.237Z'
+datePublished: '2016-05-10T18:05:06.160Z'
+dateModified: '2016-05-10T18:04:23.193Z'
 title: ''
 author:
   - name: ''
