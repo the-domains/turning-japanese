@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Wa-Shoku
-datePublished: '2016-05-10T06:34:44.670Z'
-dateModified: '2016-05-10T06:34:42.645Z'
+datePublished: '2016-05-10T18:04:09.929Z'
+dateModified: '2016-05-10T17:45:56.237Z'
 title: ''
 author:
   - name: ''
@@ -20,7 +19,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: eat/index.html
+_type: Article
 
 ---
 Wa-Shoku
