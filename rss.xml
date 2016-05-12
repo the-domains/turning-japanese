@@ -4,7 +4,7 @@
         <description><![CDATA[turning Japanese]]></description>
         <link>https://thegrid.ai/turning-japanese/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 17:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 17:07:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/turning-japanese/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Custom]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/turning-japanese/custom/index.html</link>
             <guid isPermaLink="false">c72b8e07-55d6-4266-b871-ebf842c0d3c5</guid>
             <pubDate>Thu, 12 May 2016 17:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Move]]></title>
+            <description><![CDATA[<p>A local train drifting past villages and paddies or Nozumi accelerating like a F1 car into the distant north both have their charms. </p>]]></description>
+            <link>https://thegrid.ai/turning-japanese/passing-trough-japans-prefectures-by-train-is-the-only-way-t/index.html</link>
+            <guid isPermaLink="false">01807723-5ffd-4ff0-b326-84aed9236f48</guid>
+            <pubDate>Thu, 12 May 2016 17:07:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lost Soul]]></title>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/turning-japanese/dine/index.html</link>
             <guid isPermaLink="false">d76e92a7-60de-4a84-9237-7df1ff0e7149</guid>
             <pubDate>Tue, 10 May 2016 06:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Move]]></title>
-            <description><![CDATA[<p>A local train drifting past villages and paddies or Nozumi accelerating like a F1 car into the distant north both have their charms. </p>]]></description>
-            <link>https://thegrid.ai/turning-japanese/passing-trough-japans-prefectures-by-train-is-the-only-way-t/index.html</link>
-            <guid isPermaLink="false">01807723-5ffd-4ff0-b326-84aed9236f48</guid>
-            <pubDate>Sun, 08 May 2016 17:51:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
