@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Wa-Shoku
-datePublished: '2016-05-11T06:29:57.250Z'
-dateModified: '2016-05-11T06:29:30.732Z'
+datePublished: '2016-05-13T08:19:50.785Z'
+dateModified: '2016-05-13T08:16:50.784Z'
 title: ''
 author:
   - name: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: eat/index.html
 _type: Article
 
