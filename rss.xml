@@ -4,8 +4,15 @@
         <description><![CDATA[turning Japanese]]></description>
         <link>https://thegrid.ai/turning-japanese/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 08:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 08:27:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/turning-japanese/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Custom]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a87ecf6-e1f0-44df-bf78-836719867ae1.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/turning-japanese/custom/index.html</link>
+            <guid isPermaLink="false">c72b8e07-55d6-4266-b871-ebf842c0d3c5</guid>
+            <pubDate>Fri, 13 May 2016 08:27:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lost Soul]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fbe217e3d4aad7de87de3497f0eddea2c8cfff6.jpg" alt="" title="">]]></description>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/turning-japanese/sake-the-god-of-a-hundred-medicines/index.html</link>
             <guid isPermaLink="false">c4438f93-aab6-4862-8591-d1bbffd3e885</guid>
             <pubDate>Fri, 13 May 2016 08:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Custom]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a87ecf6-e1f0-44df-bf78-836719867ae1.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/turning-japanese/custom/index.html</link>
-            <guid isPermaLink="false">c72b8e07-55d6-4266-b871-ebf842c0d3c5</guid>
-            <pubDate>Fri, 13 May 2016 08:18:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
