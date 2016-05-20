@@ -5,19 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Wa-Shoku
-datePublished: '2016-05-13T08:31:16.657Z'
-dateModified: '2016-05-13T08:30:21.180Z'
+datePublished: '2016-05-20T05:07:22.219Z'
+dateModified: '2016-05-20T05:06:50.141Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-06-sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: eat/index.html
 _type: Article
@@ -44,6 +40,7 @@ Could wagyu beef have happened anywhere else?
 Zen vegetarianism a food ethos raised to greatness over centuries not decades. 
 
 All of the myriad cuisines in Japan seen to have come to popular culture by the harder path, soba for instance is one of the most difficult things to make but perseverance pays off it has become an important cuisine generating much respect for the chefs and the worldwide demand for soba has even brought it to our shores. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d75bf3a1-77c5-4ea2-b872-96c93b907038.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e152c4a1-04d0-4a17-8be1-20bcfc9a2d98.jpg)
 
 Sushi a began humbly as a form of preservation rice was used as the preserving medium and the fish was buried within it and left for up to a year funazushi. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76824b3b-78fe-4f6a-8a35-209ee0f1b5f5.jpg)
 
