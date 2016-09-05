@@ -1,4 +1,3 @@
-layout_spectrum: 0.6622360632754862
 typography_spectrum: 0.08640377316623926
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6622360632754862
 analytics:
   google: null
   facebook: null
@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: portfolio
-    url: www.fstopchef.com
-    type: external
 favicon: null
 title: turning Japanese
 description: absorbing culture
