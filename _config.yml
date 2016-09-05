@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Photo portfolio
-    url: http//.fstopchef.com
-    type: external
 favicon: null
 title: turning Japanese
 description: absorbing culture
