@@ -1,20 +1,4 @@
-name: turning japanese
-favicon: null
-layout_spectrum: 0.84863
 typography_spectrum: 0.02296
-title: turning Japanese
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0a050a'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5625
   saturation: 0.625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.84863
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: turning japanese
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Photo portfolio
+    url: http//.fstopchef.com
+    type: external
+favicon: null
+title: turning Japanese
 purpose: []
