@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T07:34:11.073Z'
+datePublished: '2016-09-02T07:36:50.789Z'
 sourcePath: >-
   _posts/2016-04-20-passing-trough-japans-prefectures-by-train-is-the-only-way-t.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-02T07:34:10.519Z'
+dateModified: '2016-09-02T07:36:50.145Z'
 title: ''
 publisher: {}
 description: >-
