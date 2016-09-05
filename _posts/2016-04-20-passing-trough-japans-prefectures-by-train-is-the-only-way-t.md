@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T06:56:44.635Z'
+datePublished: '2016-09-02T07:17:23.152Z'
 sourcePath: >-
   _posts/2016-04-20-passing-trough-japans-prefectures-by-train-is-the-only-way-t.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-02T06:56:44.072Z'
+dateModified: '2016-09-02T07:17:22.462Z'
 title: ''
 publisher: {}
 description: >-
@@ -24,7 +24,7 @@ _type: Article
 > Passing trough Japans prefectures by train is the only way to travel this country.
 
 A local train drifting past villages and paddies or Nozumi accelerating like a F1 car into the distant north both have their charms.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a9afa91-cf2a-46df-9435-cdf75cada67f.jpg)
+![Boys Dream](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a9afa91-cf2a-46df-9435-cdf75cada67f.jpg)
 ![ metro retro](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e949303183c11cc8aa7d936f861901dc40066c32.jpg)
 
 If you have never experienced the Japanese way of travel. for the British rail user-commuter it is a revelation. Amidst the rushing of shinjuku there is a strange order one we are not used to. Trains work, they are on time, clean efficient and pleasant to use. The top tips are arrive in plenty of time, buy ekiben for your journey find where your carriage will stop, all marked on the platform.
