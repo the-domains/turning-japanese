@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: portfolio
+    url: www.fstopchef.com
+    type: external
 favicon: null
 title: turning Japanese
 description: absorbing culture
