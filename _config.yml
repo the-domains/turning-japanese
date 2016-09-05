@@ -1,4 +1,3 @@
-layout_spectrum: 0.6622360632754862
 typography_spectrum: 0.2768262915778905
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6622360632754862
 analytics:
   google: null
   facebook: null
@@ -29,6 +29,6 @@ navigation:
     url: 'http//:www.fstopchef.com'
     type: external
 favicon: null
-title: turning Japanese
+title: Turning Japanese
 description: absorbing culture
 purpose: []
