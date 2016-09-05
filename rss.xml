@@ -4,7 +4,7 @@
         <description><![CDATA[turning Japanese]]></description>
         <link>https://thegrid.ai/turning-japanese/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 09:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 09:39:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/turning-japanese/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lost Soul]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/turning-japanese/sake-the-god-of-a-hundred-medicines/index.html</link>
             <guid isPermaLink="false">c4438f93-aab6-4862-8591-d1bbffd3e885</guid>
             <pubDate>Fri, 20 May 2016 05:07:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chefs]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86552630164001f575f3fdd33cf9489e46dce32d.jpg">]]></description>
+            <link>https://thegrid.ai/turning-japanese/chefs/index.html</link>
+            <guid isPermaLink="false">8fffeb04-6056-4e3c-a495-5a731f3a143d</guid>
+            <pubDate>Fri, 02 Sep 2016 09:39:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dine]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/turning-japanese/eat/index.html</link>
             <guid isPermaLink="false">2f234d09-06ba-453c-8dfa-7baff932ef0f</guid>
             <pubDate>Fri, 20 May 2016 05:07:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chefs]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14a1ef69-d5cd-4a5e-852f-92df966a3edd.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/turning-japanese/chefs/index.html</link>
-            <guid isPermaLink="false">8fffeb04-6056-4e3c-a495-5a731f3a143d</guid>
-            <pubDate>Fri, 13 May 2016 08:35:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
