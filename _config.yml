@@ -40,6 +40,9 @@ navigation:
   - name: Specialise
     id: 8fffeb04-6056-4e3c-a495-5a731f3a143d
     type: content
+  - name: Magic carpet
+    id: 01807723-5ffd-4ff0-b326-84aed9236f48
+    type: content
 favicon: null
 title: Turning Japanese
 description: absorbing culture
