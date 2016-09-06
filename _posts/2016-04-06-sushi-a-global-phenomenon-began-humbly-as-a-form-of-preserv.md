@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T16:00:25.117Z'
+datePublished: '2016-09-02T16:12:31.246Z'
 sourcePath: >-
   _posts/2016-04-06-sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-02T16:00:24.496Z'
+dateModified: '2016-09-02T16:12:30.491Z'
 title: Wa-Shoku
 publisher: {}
 description: It has filtered through into other cultures food history.
