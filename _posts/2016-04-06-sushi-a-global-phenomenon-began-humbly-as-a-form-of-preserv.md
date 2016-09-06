@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T12:07:45.543Z'
+datePublished: '2016-09-02T13:07:42.146Z'
 sourcePath: >-
   _posts/2016-04-06-sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv.md
 inFeed: true
@@ -11,8 +11,8 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-02T12:07:44.511Z'
-title: ''
+dateModified: '2016-09-02T13:07:41.583Z'
+title: negi toro maki
 publisher: {}
 description: Wa-Shoku
 inLanguage: null
