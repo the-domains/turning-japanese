@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T13:07:42.146Z'
+datePublished: '2016-09-02T13:54:30.634Z'
 sourcePath: >-
   _posts/2016-04-06-sushi-a-global-phenomenon-began-humbly-as-a-form-of-preserv.md
 inFeed: true
@@ -11,17 +11,17 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-02T13:07:41.583Z'
-title: negi toro maki
+dateModified: '2016-09-02T13:54:30.022Z'
+title: Wa-Shoku
 publisher: {}
-description: Wa-Shoku
+description: It has filtered through into other cultures food history.
 inLanguage: null
 inNav: false
 starred: false
 _type: Blurb
 
 ---
-Wa-Shoku
+# Wa-Shoku
 
 It has filtered through into other cultures food history.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6029f96a562ae2626c25f7356b28116d17623c75.jpg)
