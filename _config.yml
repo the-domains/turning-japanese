@@ -34,6 +34,9 @@ navigation:
   - name: customs
     id: c72b8e07-55d6-4266-b871-ebf842c0d3c5
     type: content
+  - name: Dine
+    id: d76e92a7-60de-4a84-9237-7df1ff0e7149
+    type: content
 favicon: null
 title: Turning Japanese
 description: absorbing culture
