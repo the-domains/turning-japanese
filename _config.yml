@@ -1,4 +1,25 @@
+name: turning japanese
+favicon: null
+layout_spectrum: 0.43168
 typography_spectrum: 0.2768262915778905
+navigation:
+  - name: Portfolio
+    url: 'http://www.fstopchef.com'
+    type: external
+title: Turning Japanese
+description: absorbing culture
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -10,25 +31,4 @@ color:
   lightness: 0.7418812406249344
   saturation: 0.9614877987187356
   rhythmicContrast: 0.8113932970445603
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.6622360632754862
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: turning japanese
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: Portfolio
-    url: 'http://www.fstopchef.com'
-    type: external
-favicon: null
-title: Turning Japanese
-description: absorbing culture
 purpose: []
