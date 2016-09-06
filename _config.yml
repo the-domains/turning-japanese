@@ -46,6 +46,9 @@ navigation:
   - name: God of a hundred medicines
     id: c4438f93-aab6-4862-8591-d1bbffd3e885
     type: content
+  - name: Wa-Shoku
+    id: 2f234d09-06ba-453c-8dfa-7baff932ef0f
+    type: content
 favicon: null
 title: Turning Japanese
 description: absorbing culture
