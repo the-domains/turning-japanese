@@ -37,6 +37,9 @@ navigation:
   - name: Dine
     id: d76e92a7-60de-4a84-9237-7df1ff0e7149
     type: content
+  - name: Specialise
+    id: 8fffeb04-6056-4e3c-a495-5a731f3a143d
+    type: content
 favicon: null
 title: Turning Japanese
 description: absorbing culture
