@@ -31,6 +31,9 @@ navigation:
   - name: Tokyo
     id: 1d7ac27f-d786-4c45-a48a-ff7a02ff0bd7
     type: content
+  - name: customs
+    id: c72b8e07-55d6-4266-b871-ebf842c0d3c5
+    type: content
 favicon: null
 title: Turning Japanese
 description: absorbing culture
