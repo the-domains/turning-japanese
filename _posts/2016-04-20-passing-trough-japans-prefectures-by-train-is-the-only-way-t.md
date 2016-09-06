@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-09-02T14:11:52.704Z'
+datePublished: '2016-09-02T16:01:18.584Z'
 sourcePath: >-
   _posts/2016-04-20-passing-trough-japans-prefectures-by-train-is-the-only-way-t.md
 inFeed: true
-isBasedOnUrl: ''
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-02T14:11:50.280Z'
+dateModified: '2016-09-02T16:01:17.740Z'
 title: Magic carpet
 publisher: {}
 description: >-
@@ -20,7 +19,8 @@ description: >-
 inLanguage: null
 inNav: false
 starred: false
-_type: Blurb
+url: magic-carpet/index.html
+_type: Article
 
 ---
 # Magic carpet
