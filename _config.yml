@@ -49,6 +49,9 @@ navigation:
   - name: Wa-Shoku
     id: 2f234d09-06ba-453c-8dfa-7baff932ef0f
     type: content
+  - name: Time & Tsukiji
+    id: b530c0af-9a8b-4ce1-b27f-361aa0aed498
+    type: content
 favicon: null
 title: Turning Japanese
 description: absorbing culture
