@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T16:12:12.476Z'
+datePublished: '2016-09-03T07:41:21.951Z'
 sourcePath: >-
   _posts/2016-04-20-passing-trough-japans-prefectures-by-train-is-the-only-way-t.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-02T16:12:09.861Z'
+dateModified: '2016-09-03T07:41:01.043Z'
 title: Magic carpet
 publisher: {}
 description: >-
@@ -18,7 +18,7 @@ description: >-
   F1 car into the distant north both have their charms.
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: magic-carpet/index.html
 _type: Article
 
